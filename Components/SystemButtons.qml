@@ -1,6 +1,6 @@
-// Config created by Keyitdev https://github.com/Keyitdev/sddm-astronaut-theme
-// Copyright (C) 2022-2024 Keyitdev
-// Based on https://github.com/MarianArlt/sddm-sugar-dark
+// Config created by RaduAvramescu https://github.com/RaduAvramescu/sddm-tokyo-night-theme
+// Copyright (C) 2024 RaduAvramescu
+// Based on https://github.com/Keyitdev/sddm-astronaut-theme
 // Distributed under the GPLv3+ License https://www.gnu.org/licenses/gpl-3.0.html
 
 import QtQuick 2.15
