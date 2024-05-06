@@ -3,7 +3,7 @@
 A theme for the [SDDM login manager](https://github.com/sddm/sddm).
 
 - Screen resolution: 3840x2160
-- Font: Fira Code Nerd Font
+- Font: JetBrainsMono Nerd Font
 
 ### Preview
 
